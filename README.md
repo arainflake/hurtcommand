@@ -1,0 +1,1 @@
+hurt command for minecraft
